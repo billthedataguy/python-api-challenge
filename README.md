@@ -1,6 +1,6 @@
 # python-api-challenge
 
-## William Vann - Homework 6
+## William Vann 
 
 ### Principal Findings:
 
